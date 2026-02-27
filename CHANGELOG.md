@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9bdd54a`](https://github.com/stdlib-js/stdlib/commit/9bdd54a97d6458edeb891ac49cbcffa86470e354) - **docs:** update description _(by Athan Reines)_
 -   [`2b0c11f`](https://github.com/stdlib-js/stdlib/commit/2b0c11f5339edc83e5de241d702230e73552136d) - **feat:** add `ndarray/from-scalar-like` [(#9940)](https://github.com/stdlib-js/stdlib/pull/9940) _(by Muhammad Haris, Athan Reines)_
 
 </details>
