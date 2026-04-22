@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-10)
+## Unreleased (2026-04-22)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`bf821ca`](https://github.com/stdlib-js/stdlib/commit/bf821ca698340a14342ae1b12b5ea74b339f6adf) - **chore:** propagate recent fixes to sibling packages [(#11696)](https://github.com/stdlib-js/stdlib/pull/11696) _(by Philipp Burckhardt)_
 -   [`7eb18f2`](https://github.com/stdlib-js/stdlib/commit/7eb18f24166f78119540ec88e652e5643a5d2518) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`9bdd54a`](https://github.com/stdlib-js/stdlib/commit/9bdd54a97d6458edeb891ac49cbcffa86470e354) - **docs:** update description _(by Athan Reines)_
 -   [`2b0c11f`](https://github.com/stdlib-js/stdlib/commit/2b0c11f5339edc83e5de241d702230e73552136d) - **feat:** add `ndarray/from-scalar-like` [(#9940)](https://github.com/stdlib-js/stdlib/pull/9940) _(by Muhammad Haris, Athan Reines)_
