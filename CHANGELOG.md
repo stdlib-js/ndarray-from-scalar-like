@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-04)
+## Unreleased (2026-10-12)
 
 <section class="features">
 
 ### Features
 
+-   [`40e6a9e`](https://github.com/stdlib-js/stdlib/commit/40e6a9e4cc2d941aa2c62c6365c1351ff139850e) - add float16 dtype support to `ndarray/from-scalar-like` [(#15244)](https://github.com/stdlib-js/stdlib/pull/15244)
 -   [`2b0c11f`](https://github.com/stdlib-js/stdlib/commit/2b0c11f5339edc83e5de241d702230e73552136d) - add `ndarray/from-scalar-like` [(#9940)](https://github.com/stdlib-js/stdlib/pull/9940)
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`40e6a9e`](https://github.com/stdlib-js/stdlib/commit/40e6a9e4cc2d941aa2c62c6365c1351ff139850e) - **feat:** add float16 dtype support to `ndarray/from-scalar-like` [(#15244)](https://github.com/stdlib-js/stdlib/pull/15244) _(by Samarth Kolarkar)_
 -   [`a0ddbae`](https://github.com/stdlib-js/stdlib/commit/a0ddbae6d3f4bb2b9f95ff2e249202a5d3c95e82) - **docs:** fix description and add missing spaces [(#14202)](https://github.com/stdlib-js/stdlib/pull/14202) _(by Philipp Burckhardt)_
 -   [`bf821ca`](https://github.com/stdlib-js/stdlib/commit/bf821ca698340a14342ae1b12b5ea74b339f6adf) - **chore:** propagate recent fixes to sibling packages [(#11696)](https://github.com/stdlib-js/stdlib/pull/11696) _(by Philipp Burckhardt)_
 -   [`7eb18f2`](https://github.com/stdlib-js/stdlib/commit/7eb18f24166f78119540ec88e652e5643a5d2518) - **chore:** minor clean-up _(by Philipp Burckhardt)_
@@ -38,11 +40,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
 -   Philipp Burckhardt
+-   Samarth Kolarkar
 
 </section>
 
